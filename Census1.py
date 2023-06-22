@@ -7,6 +7,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.metrics import mean_squared_error
+print("Sayali M Thakre")
 
 df = pd.read_csv(r"C:/Datasetintership/adult.csv")
 
